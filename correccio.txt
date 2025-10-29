@@ -1,0 +1,17 @@
+Exercici 1. 1.75/2
+  Per mostrar els perímetres per radis parells, i àrees per radis múltiples de 3, cal escriure-ho com:
+  llista_perimetres[::2] (sense posar el -1. Si poses el -1, no considera l'última posició)
+  llista_arees[::3]
+
+Exercici 2. 2/2
+  
+Exercici 3. 1.75/2
+La clau "curs" havia de contenir un string, no una llista.
+  
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 9.5/10
